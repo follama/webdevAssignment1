@@ -1,5 +1,6 @@
 # webdevAssignment1
-showing progress for my first web dev assignment 
+Showing progress for my first web dev assignment 
+
 Name: Adefolami Olawuyi 
 Student Id: 52317231 1
 
@@ -8,4 +9,4 @@ For my project, I chose to cover Lagos, Nigeria as that's my home town. I immedi
 I made the background of all my pages have a very pale green, which had a little bit of white n t and also made the deeper greens on the page stand out.
 I made the navigation incorporate a deep green to match the flag and also made the links in the navigation consistent by putting them in the same order throughout my website so that you don't get confused about where each link is.
 
-CHALLENGE 1 
+CHALLENGE 1 - For my navigation, I hadn't read the requirements for them and I had just made a normal navbar, not realising that I needed to include bootstrap responsiveness.
